@@ -1,8 +1,8 @@
 <template>
   <div>
-importar { Terminal } desde "@es-js/terminal"
-importar { obtenerJson } desde "https://cdn.esjs.dev/MYewdgzgLgBCBGUCmYkCcBSFwwLwwEMIBLMYNcEGAMwFczicAKWtAGwEoYBvAKBhihIsNEggAHWmKgE8MMePQE0NJFGAALFuw78YoqCDRhl8iUpWiJU6AQB0AK2xgmugL69eSAB7ijMlW44RBR0LBwPIA"
-importar cryptojs desde "https://cdn.jsdelivr.net/npm/crypto-js@4.1.1/+esm"
+        importar { Terminal } desde "@es-js/terminal"
+        importar { obtenerJson } desde "https://cdn.esjs.dev/MYewdgzgLgBCBGUCmYkCcBSFwwLwwEMIBLMYNcEGAMwFczicAKWtAGwEoYBvAKBhihIsNEggAHWmKgE8MMePQE0NJFGAALFuw78YoqCDRhl8iUpWiJU6AQB0AK2xgmugL69eSAB7ijMlW44RBR0LBwPIA"
+        importar cryptojs desde "https://cdn.jsdelivr.net/npm/crypto-js@4.1.1/+esm"
 
 var CONTRASEÑA_MD5 = "c218913679d93a6b9e93fbb7fb22da50"
 
