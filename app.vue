@@ -1,7 +1,6 @@
 <template>
   <div>
-    <NuxtWelcome />
-    importar { Terminal } desde "@es-js/terminal"
+importar { Terminal } desde "@es-js/terminal"
 importar { obtenerJson } desde "https://cdn.esjs.dev/MYewdgzgLgBCBGUCmYkCcBSFwwLwwEMIBLMYNcEGAMwFczicAKWtAGwEoYBvAKBhihIsNEggAHWmKgE8MMePQE0NJFGAALFuw78YoqCDRhl8iUpWiJU6AQB0AK2xgmugL69eSAB7ijMlW44RBR0LBwPIA"
 importar cryptojs desde "https://cdn.jsdelivr.net/npm/crypto-js@4.1.1/+esm"
 
